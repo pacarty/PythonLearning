@@ -1,0 +1,4 @@
+This link explains how to set up virtual environment so dependencies are all contained within the project directory.
+
+https://code.visualstudio.com/docs/python/python-tutorial#_install-and-use-packages
+
